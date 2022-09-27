@@ -1,0 +1,15 @@
+POST / HTTP/1.1
+Host: due.udn.vn
+Content-Length: 82110
+Cache-Control: no-cache
+X-Requested-With: XMLHttpRequest
+X-MicrosoftAjax: Delta=true
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.5195.102 Safari/537.36
+Content-Type: application/x-www-form-urlencoded; charset=UTF-8
+Accept: */*
+Origin: http://due.udn.vn
+Referer: http://due.udn.vn/
+Accept-Encoding: gzip, deflate
+Accept-Language: en-US,en;q=0.9
+Cookie: dnn_IsMobile=False; .ASPXANONYMOUS=YsUZmzcI2QEkAAAAMGExYjc1NmYtYjNiMy00NzJmLTg1MjAtY2I0MWE2YmE4MzE40; DotNetNukeAnonymous=b900cb99-baf1-43ba-82e1-6df4a5a11a07; ASP.NET_SessionId=y0djupeejdpiogr1jvthwnqz; language=vi-VN; __RequestVerificationToken=5hTE6hc1iojMEPu2rdCe2oSLr0LsArrQyp-QS1raLcGCcsVo8I_xfoUmJX04VGTXYdC1c5bCHuLCE0h34Ca4xB3OPVowtOZ8DdWBgwchqhQBNu0_-UTTfGjIAhE1; __utma=215305090.884054714.1664196316.1664196316.1664196316.1; __utmc=215305090; __utmz=215305090.1664196316.1.1.utmcsr=(direct)|utmccn=(direct)|utmcmd=(none); __utmt=1; __utmb=215305090.1.10.1664196316
+Connection: close
